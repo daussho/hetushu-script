@@ -8,6 +8,8 @@
 // ==/UserScript==
 
 (async () => {
+  if (document.title == "Just a moment...") return;
+
   await new Promise((r) => setTimeout(r, 1000));
 
   document.querySelector("#content").style =
