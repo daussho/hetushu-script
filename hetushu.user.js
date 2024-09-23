@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name hetushu font
 // @namespace http://daussho.com/
-// @version 0.4
+// @version 0.5
 // @description  Hetushu font
 // @match https://m.hetushu.com/book/*
 // @copyright 2024+, daussho.com
